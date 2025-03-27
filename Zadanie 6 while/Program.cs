@@ -9,7 +9,7 @@ namespace Zadanie_6_while
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             //Napisać program, który będzie umożliwiał użytkownikowi obliczenia pól figur płaskich.
             //Jeżeli użytkownik wybierze 1, to powinien mieć możliwość obliczenia pola prostokąta,
